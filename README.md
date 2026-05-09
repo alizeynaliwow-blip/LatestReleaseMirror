@@ -157,37 +157,48 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="2dust--v2rayn"></div>
+<div id="gfw-knocker--mahsang"></div>
 
-### 2dust--v2rayN
+### GFW-knocker--MahsaNG
 
-🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.20.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.20.4)
+🔗 [source](https://github.com/GFW-knocker/MahsaNG) – [<code><small>v15-(1405-1-22)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v15-(1405-1-22))
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayN-linux-64.deb` | 68.9 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-64.deb) |
-| `v2rayN-linux-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-64.zip.001) |
-| `v2rayN-linux-64.zip (part 2 of 2)` | 22.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-64.zip.002) |
-| `v2rayN-linux-arm64.deb` | 62.4 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-arm64.deb) |
-| `v2rayN-linux-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-arm64.zip.001) |
-| `v2rayN-linux-arm64.zip (part 2 of 2)` | 16.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-arm64.zip.002) |
-| `v2rayN-linux-rhel-64.rpm` | 76.5 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-64.rpm) |
-| `v2rayN-linux-rhel-arm64.rpm` | 71.7 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-arm64.rpm) |
-| `v2rayN-linux-rhel-riscv64.rpm` | 72.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-riscv64.rpm) |
-| `v2rayN-macos-64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.dmg.001) |
-| `v2rayN-macos-64.dmg (part 2 of 2)` | 21.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.dmg.002) |
-| `v2rayN-macos-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.zip.001) |
-| `v2rayN-macos-64.zip (part 2 of 2)` | 22.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.zip.002) |
-| `v2rayN-macos-arm64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.dmg.001) |
-| `v2rayN-macos-arm64.dmg (part 2 of 2)` | 15.8 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.dmg.002) |
-| `v2rayN-macos-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.zip.001) |
-| `v2rayN-macos-arm64.zip (part 2 of 2)` | 16.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.zip.002) |
-| `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 21.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
-| `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.001) |
-| `v2rayN-windows-64.zip (part 2 of 2)` | 53.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.002) |
-| `v2rayN-windows-arm64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64-desktop.zip.001) |
-| `v2rayN-windows-arm64-desktop.zip (part 2 of 2)` | 13.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64-desktop.zip.002) |
-| `v2rayN-windows-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64.zip.001) |
-| `v2rayN-windows-arm64.zip (part 2 of 2)` | 43.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64.zip.002) |
+| `MahsaNG_15_arm64-v8a.apk` | 51.7 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_15_arm64-v8a.apk) |
+| `MahsaNG_15_armeabi-v7a.apk` | 52.3 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_15_armeabi-v7a.apk) |
+| `MahsaNG_15_universal.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_15_universal.apk.001) |
+| `MahsaNG_15_universal.apk (part 2 of 2)` | 50.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_15_universal.apk.002) |
+| `MahsaNG_15_x86.apk` | 55.1 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_15_x86.apk) |
+| `MahsaNG_15_x86_64.apk` | 54.1 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_15_x86_64.apk) |
+
+---
+
+<div id="unboundtechco--defyxvpn"></div>
+
+### UnboundTechCo--defyxVPN
+
+🔗 [source](https://github.com/UnboundTechCo/defyxVPN) – [<code><small>v5.2.8</small></code>](https://github.com/UnboundTechCo/defyxVPN/releases/tag/v5.2.8)
+
+| File | Size | Download |
+|------|------|----------|
+| `app-arm64-v8a-release.apk` | 79.2 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/UnboundTechCo/defyxVPN/app-arm64-v8a-release.apk) |
+| `app-armeabi-v7a-release.apk` | 73.9 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/UnboundTechCo/defyxVPN/app-armeabi-v7a-release.apk) |
+| `app-release.apk (part 1 of 3)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/UnboundTechCo/defyxVPN/app-release.apk.001) |
+| `app-release.apk (part 2 of 3)` | 90.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/UnboundTechCo/defyxVPN/app-release.apk.002) |
+| `app-release.apk (part 3 of 3)` | 30.4 MB | [⬇️ Download (Part 3)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/UnboundTechCo/defyxVPN/app-release.apk.003) |
+| `app-x86_64-release.apk` | 83.4 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/UnboundTechCo/defyxVPN/app-x86_64-release.apk) |
+| `windows-release.zip` | 31.5 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/UnboundTechCo/defyxVPN/windows-release.zip) |
+
+---
+
+<div id="shirokhorshid--shirokhorshid-android"></div>
+
+### shirokhorshid--shirokhorshid-android
+
+🔗 [source](https://github.com/shirokhorshid/shirokhorshid-android) – [<code><small>v2026.03.17-75fc6ed</small></code>](https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.03.17-75fc6ed)
+
+| File | Size | Download |
+|------|------|----------|
+| `ShirOKhorshid-2026.03.17.apk` | 24.0 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/shirokhorshid/shirokhorshid-android/ShirOKhorshid-2026.03.17.apk) |
 <!-- RELEASES_END -->
