@@ -5,7 +5,8 @@
 # therealaleph/MasterHttpRelayVPN-RUST
 # 2dust/v2rayNG
 # 2dust/v2rayN
-GFW-knocker/MahsaNG
-# hiddify/hiddify-app
-UnboundTechCo/defyxVPN
-shirokhorshid/shirokhorshid-android
+# GFW-knocker/MahsaNG
+hiddify/hiddify-app
+anonvector/SlipNet
+# UnboundTechCo/defyxVPN
+# shirokhorshid/shirokhorshid-android
