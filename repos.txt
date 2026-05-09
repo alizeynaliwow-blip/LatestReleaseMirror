@@ -4,8 +4,8 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 # therealaleph/MasterHttpRelayVPN-RUST
 # 2dust/v2rayNG
-2dust/v2rayN
-# GFW-knocker/MahsaNG
+# 2dust/v2rayN
+GFW-knocker/MahsaNG
 # hiddify/hiddify-app
-# UnboundTechCo/defyxVPN
-# shirokhorshid/shirokhorshid-android
+UnboundTechCo/defyxVPN
+shirokhorshid/shirokhorshid-android
