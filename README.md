@@ -157,48 +157,43 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="gfw-knocker--mahsang"></div>
+<div id="anonvector--slipnet"></div>
 
-### GFW-knocker--MahsaNG
+### anonvector--SlipNet
 
-🔗 [source](https://github.com/GFW-knocker/MahsaNG) – [<code><small>v15-(1405-1-22)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v15-(1405-1-22))
+🔗 [source](https://github.com/anonvector/SlipNet) – [<code><small>v2.5.3</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.3)
 
 | File | Size | Download |
 |------|------|----------|
-| `MahsaNG_15_arm64-v8a.apk` | 51.7 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_15_arm64-v8a.apk) |
-| `MahsaNG_15_armeabi-v7a.apk` | 52.3 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_15_armeabi-v7a.apk) |
-| `MahsaNG_15_universal.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_15_universal.apk.001) |
-| `MahsaNG_15_universal.apk (part 2 of 2)` | 50.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_15_universal.apk.002) |
-| `MahsaNG_15_x86.apk` | 55.1 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_15_x86.apk) |
-| `MahsaNG_15_x86_64.apk` | 54.1 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_15_x86_64.apk) |
+| `SlipNet-v2.5.3-full-release-universal.apk` | 54.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-universal.apk) |
 
 ---
 
-<div id="unboundtechco--defyxvpn"></div>
+<div id="hiddify--hiddify-app"></div>
 
-### UnboundTechCo--defyxVPN
+### hiddify--hiddify-app
 
-🔗 [source](https://github.com/UnboundTechCo/defyxVPN) – [<code><small>v5.2.8</small></code>](https://github.com/UnboundTechCo/defyxVPN/releases/tag/v5.2.8)
-
-| File | Size | Download |
-|------|------|----------|
-| `app-arm64-v8a-release.apk` | 79.2 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/UnboundTechCo/defyxVPN/app-arm64-v8a-release.apk) |
-| `app-armeabi-v7a-release.apk` | 73.9 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/UnboundTechCo/defyxVPN/app-armeabi-v7a-release.apk) |
-| `app-release.apk (part 1 of 3)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/UnboundTechCo/defyxVPN/app-release.apk.001) |
-| `app-release.apk (part 2 of 3)` | 90.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/UnboundTechCo/defyxVPN/app-release.apk.002) |
-| `app-release.apk (part 3 of 3)` | 30.4 MB | [⬇️ Download (Part 3)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/UnboundTechCo/defyxVPN/app-release.apk.003) |
-| `app-x86_64-release.apk` | 83.4 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/UnboundTechCo/defyxVPN/app-x86_64-release.apk) |
-| `windows-release.zip` | 31.5 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/UnboundTechCo/defyxVPN/windows-release.zip) |
-
----
-
-<div id="shirokhorshid--shirokhorshid-android"></div>
-
-### shirokhorshid--shirokhorshid-android
-
-🔗 [source](https://github.com/shirokhorshid/shirokhorshid-android) – [<code><small>v2026.03.17-75fc6ed</small></code>](https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.03.17-75fc6ed)
+🔗 [source](https://github.com/hiddify/hiddify-app) – [<code><small>v4.1.1</small></code>](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `ShirOKhorshid-2026.03.17.apk` | 24.0 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/shirokhorshid/shirokhorshid-android/ShirOKhorshid-2026.03.17.apk) |
+| `Hiddify-Android-arm7.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-arm7.apk.001) |
+| `Hiddify-Android-arm7.apk (part 2 of 2)` | 12.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-arm7.apk.002) |
+| `Hiddify-Android-arm64.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-arm64.apk.001) |
+| `Hiddify-Android-arm64.apk (part 2 of 2)` | 23.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-arm64.apk.002) |
+| `Hiddify-Android-universal.apk (part 1 of 4)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-universal.apk.001) |
+| `Hiddify-Android-universal.apk (part 2 of 4)` | 90.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-universal.apk.002) |
+| `Hiddify-Android-universal.apk (part 3 of 4)` | 90.0 MB | [⬇️ Download (Part 3)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-universal.apk.003) |
+| `Hiddify-Android-universal.apk (part 4 of 4)` | 53.8 MB | [⬇️ Download (Part 4)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-universal.apk.004) |
+| `Hiddify-Android-x86_64.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-x86_64.apk.001) |
+| `Hiddify-Android-x86_64.apk (part 2 of 2)` | 32.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-x86_64.apk.002) |
+| `Hiddify-Debian-x64.deb` | 40.4 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Debian-x64.deb) |
+| `Hiddify-Linux-x64-AppImage.AppImage` | 52.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Linux-x64-AppImage.AppImage) |
+| `Hiddify-Linux-x64-AppImage.tar.gz` | 52.1 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Linux-x64-AppImage.tar.gz) |
+| `Hiddify-MacOS.dmg` | 79.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-MacOS.dmg) |
+| `Hiddify-MacOS-Installer.pkg` | 79.8 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-MacOS-Installer.pkg) |
+| `Hiddify-Windows-Portable-x64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-Portable-x64.zip.001) |
+| `Hiddify-Windows-Portable-x64.zip (part 2 of 2)` | 22.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-Portable-x64.zip.002) |
+| `Hiddify-Windows-Setup-x64.exe` | 34.7 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-Setup-x64.exe) |
+| `Hiddify-Windows-x64.msix` | 47.5 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-x64.msix) |
 <!-- RELEASES_END -->
