@@ -157,22 +157,37 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="2dust--v2rayng"></div>
+<div id="2dust--v2rayn"></div>
 
-### 2dust--v2rayNG
+### 2dust--v2rayN
 
-🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.0.18</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.0.18)
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.20.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.20.4)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.0.18-fdroid_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.0.18-fdroid_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_armeabi-v7a.apk) |
-| `v2rayNG_2.0.18-fdroid_universal.apk` | 61.7 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_universal.apk) |
-| `v2rayNG_2.0.18-fdroid_x86.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_x86.apk) |
-| `v2rayNG_2.0.18-fdroid_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_x86_64.apk) |
-| `v2rayNG_2.0.18_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_arm64-v8a.apk) |
-| `v2rayNG_2.0.18_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_armeabi-v7a.apk) |
-| `v2rayNG_2.0.18_universal.apk` | 61.7 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_universal.apk) |
-| `v2rayNG_2.0.18_x86.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_x86.apk) |
-| `v2rayNG_2.0.18_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_x86_64.apk) |
+| `v2rayN-linux-64.deb` | 68.9 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-64.deb) |
+| `v2rayN-linux-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-64.zip.001) |
+| `v2rayN-linux-64.zip (part 2 of 2)` | 22.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-64.zip.002) |
+| `v2rayN-linux-arm64.deb` | 62.4 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-arm64.deb) |
+| `v2rayN-linux-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-arm64.zip.001) |
+| `v2rayN-linux-arm64.zip (part 2 of 2)` | 16.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-arm64.zip.002) |
+| `v2rayN-linux-rhel-64.rpm` | 76.5 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-64.rpm) |
+| `v2rayN-linux-rhel-arm64.rpm` | 71.7 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-arm64.rpm) |
+| `v2rayN-linux-rhel-riscv64.rpm` | 72.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-riscv64.rpm) |
+| `v2rayN-macos-64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.dmg.001) |
+| `v2rayN-macos-64.dmg (part 2 of 2)` | 21.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.dmg.002) |
+| `v2rayN-macos-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.zip.001) |
+| `v2rayN-macos-64.zip (part 2 of 2)` | 22.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.zip.002) |
+| `v2rayN-macos-arm64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.dmg.001) |
+| `v2rayN-macos-arm64.dmg (part 2 of 2)` | 15.8 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.dmg.002) |
+| `v2rayN-macos-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.zip.001) |
+| `v2rayN-macos-arm64.zip (part 2 of 2)` | 16.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.001) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 21.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.001) |
+| `v2rayN-windows-64.zip (part 2 of 2)` | 53.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.002) |
+| `v2rayN-windows-arm64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64-desktop.zip.001) |
+| `v2rayN-windows-arm64-desktop.zip (part 2 of 2)` | 13.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64-desktop.zip.002) |
+| `v2rayN-windows-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64.zip.001) |
+| `v2rayN-windows-arm64.zip (part 2 of 2)` | 43.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64.zip.002) |
 <!-- RELEASES_END -->
