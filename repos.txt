@@ -6,7 +6,7 @@
 # 2dust/v2rayNG
 # 2dust/v2rayN
 # GFW-knocker/MahsaNG
-hiddify/hiddify-app|Hiddify-Android-universal.apk|
+hiddify/hiddify-app|Hiddify-Android-universal.apk|Hiddify-Windows-Portable-x64.zip|
 anonvector/SlipNet|SlipNet-v2.5.3-full-release-univer|
 # UnboundTechCo/defyxVPN
 # shirokhorshid/shirokhorshid-android
