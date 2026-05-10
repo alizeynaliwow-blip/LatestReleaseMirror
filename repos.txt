@@ -11,3 +11,4 @@
 # UnboundTechCo/defyxVPN
 # shirokhorshid/shirokhorshid-android
 # CluvexStudio/ZedSecure
+ThisIsDara/mhr-cfw-go
