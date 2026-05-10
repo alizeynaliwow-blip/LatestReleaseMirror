@@ -11,4 +11,4 @@
 # UnboundTechCo/defyxVPN
 # shirokhorshid/shirokhorshid-android
 # CluvexStudio/ZedSecure
-ThisIsDara/mhr-cfw-go
+IRNova/Nova-Proxy-App|Nova.App.V1|
