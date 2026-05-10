@@ -10,3 +10,4 @@
 # anonvector/SlipNet
 # UnboundTechCo/defyxVPN
 # shirokhorshid/shirokhorshid-android
+CluvexStudio/ZedSecure
