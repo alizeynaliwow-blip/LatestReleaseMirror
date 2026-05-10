@@ -157,14 +157,19 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="cluvexstudio--zedsecure"></div>
+<div id="thisisdara--mhr-cfw-go"></div>
 
-### CluvexStudio--ZedSecure
+### ThisIsDara--mhr-cfw-go
 
-🔗 [source](https://github.com/CluvexStudio/ZedSecure) – [<code><small>v1.9.0</small></code>](https://github.com/CluvexStudio/ZedSecure/releases/tag/v1.9.0)
+🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.3.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.3.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `ZedSecure-v1.9.0-arm64-v8a.apk` | 38.7 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/CluvexStudio/ZedSecure/ZedSecure-v1.9.0-arm64-v8a.apk) |
-| `ZedSecure-v1.9.0-armeabi-v7a.apk` | 35.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/CluvexStudio/ZedSecure/ZedSecure-v1.9.0-armeabi-v7a.apk) |
+| `mhr-cfw-go-darwin-amd64` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-darwin-amd64) |
+| `mhr-cfw-go-darwin-arm64` | 6.3 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-darwin-arm64) |
+| `mhr-cfw-go-linux-amd64` | 6.4 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-linux-amd64) |
+| `mhr-cfw-go-linux-arm64` | 6.2 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-linux-arm64) |
+| `mhr-cfw-go-windows-386.exe` | 6.3 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-386.exe) |
+| `mhr-cfw-go-windows-amd64.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-amd64.exe) |
+| `mhr-cfw-go-windows-arm64.exe` | 6.2 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-arm64.exe) |
 <!-- RELEASES_END -->
