@@ -157,28 +157,33 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="therealaleph--masterhttprelayvpn-rust"></div>
+<div id="feliscatus--switchyomega"></div>
 
-### therealaleph--MasterHttpRelayVPN-RUST
+### FelisCatus--SwitchyOmega
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.21</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.21)
+🔗 [source](https://github.com/FelisCatus/SwitchyOmega) – [<code><small>v2.5.20</small></code>](https://github.com/FelisCatus/SwitchyOmega/releases/tag/v2.5.20)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.21.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.21.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.21.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.21.apk) |
-| `mhrv-rs-android-universal-v1.9.21.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.21.apk) |
-| `mhrv-rs-android-x86-v1.9.21.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.21.apk) |
-| `mhrv-rs-android-x86_64-v1.9.21.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.21.apk) |
-| `mhrv-rs-linux-amd64.tar.gz` | 9.8 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
-| `mhrv-rs-linux-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
-| `mhrv-rs-linux-musl-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
-| `mhrv-rs-linux-musl-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
-| `mhrv-rs-macos-amd64.tar.gz` | 7.2 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
-| `mhrv-rs-macos-amd64-app.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
-| `mhrv-rs-macos-arm64.tar.gz` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
-| `mhrv-rs-macos-arm64-app.zip` | 4.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
-| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
-| `mhrv-rs-raspbian-armhf.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
-| `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `SwitchyOmega_Chromium.crx` | 935 KB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/FelisCatus/SwitchyOmega/SwitchyOmega_Chromium.crx) |
+| `proxy_switchyomega-2.5.20-an+fx.xpi` | 942 KB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/FelisCatus/SwitchyOmega/proxy_switchyomega-2.5.20-an+fx.xpi) |
+
+---
+
+<div id="zero-peak--zeroomega"></div>
+
+### zero-peak--zeroomega
+
+🔗 [source](https://github.com/zero-peak/zeroomega) – [<code><small>v3.4.5</small></code>](https://github.com/zero-peak/zeroomega/releases/tag/v3.4.5)
+
+| File | Size | Download |
+|------|------|----------|
+| `chromium-release.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/zero-peak/zeroomega/chromium-release.zip) |
+| `chromium-release.zip.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/zero-peak/zeroomega/chromium-release.zip.sha256) |
+| `firefox-release.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/zero-peak/zeroomega/firefox-release.zip) |
+| `firefox-release.zip.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/zero-peak/zeroomega/firefox-release.zip.sha256) |
+| `zeroomega-3.4.5.crx` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/zero-peak/zeroomega/zeroomega-3.4.5.crx) |
+| `zeroomega-3.4.5.crx.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/zero-peak/zeroomega/zeroomega-3.4.5.crx.sha256) |
+| `zeroomega-3.4.5.xpi` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/zero-peak/zeroomega/zeroomega-3.4.5.xpi) |
+| `zeroomega-3.4.5.xpi.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/alizeynaliwow-blip/LatestReleaseMirror/main/releases/zero-peak/zeroomega/zeroomega-3.4.5.xpi.sha256) |
 <!-- RELEASES_END -->
